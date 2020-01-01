@@ -1,2 +1,2 @@
 # 2019-Robot-Alpha
-Robot project for the 2019 competition season
+Our code from the 2019 Deep Space season contains no autonomous code, as our drivers used camera feedback to drive during the Sandstorm period. This season, our focus was to make our driver’s lives easy, so we include many safety features including warning lights, tilt detection to prevent our robot from tipping, hard and soft stops for the elevator, detection of motor and encoder failures, and an override button in case of failures. Other features of our robot include autopilot, where the turning motion of the robot is partially controlled autonomously to help line up. We also use autoshifting to high and low gear and our elevator uses a PID and feed forward controller. 
